@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome 👋
+
+<img src="https://komarev.com/ghpvc/?username=3pointer&style=flat&color=green" alt="3pointer" />
 
 <!--
 **3pointer/3pointer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
