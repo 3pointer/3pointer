@@ -1,5 +1,4 @@
-### Welcome 👋
-
+### Welcome to my GitHub profile!👋 
 <img src="https://komarev.com/ghpvc/?username=3pointer&style=flat&color=green" alt="3pointer" />
 
 <!--
